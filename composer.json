@@ -1,0 +1,13 @@
+{
+    "name": "wirthhorn/wh_test",
+    "description": "Test",
+    "type": "drupal-module",
+    "homepage": "https://www.wirth-horn.de",
+    "authors": [
+      {
+        "name": "Bettina Händel"
+      }
+    ],
+    "license": "GPL-2.0+"
+  }
+  
